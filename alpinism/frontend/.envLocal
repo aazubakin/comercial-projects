@@ -1,0 +1,3 @@
+BASE_API_URL="https://api.specalp66.ru/api/v1/"
+// BASE_API_URL="http://192.168.0.89:8000/api/v1/"
+META_SITE_NAME = "СпецАльп"
